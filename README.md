@@ -4,8 +4,12 @@
 > **Motivation:** 
 > 
 >I wanted to create this step by step proccess so that people that are new to Blender (the 3D animation and creation software) can understand how to have a 3D object and then apply a skin of their choice (eg. an image they like) to the object. When I was new to the program it was dificult to find all of the solutions online and the program was quite daunting. 
+>
+> **Software Required:**
+> 
+> Before you begin ensure that you have Blender 2.93
 
-Intructions:
+**Intructions:**
 1. Create an object and place it. 
 <img width="696" alt=".5" src="https://user-images.githubusercontent.com/94075893/141299800-711f174c-2dc5-445b-aede-6d456ad49a23.png">
 
@@ -42,9 +46,17 @@ Intructions:
 8. Now you will have an object with the material applied to it 
 <img width="553" alt="Screenshot 2021-11-11 at 00 18 55" src="https://user-images.githubusercontent.com/94075893/141301588-eb95a3b6-5c79-4f29-a18c-cbb95ae8913d.png">
 
+# **Closure**
+>I hope you were able to follow my instructions clearly! If not please don't hesitate in contacting me.:upside_down_face:
+>
+**Next Week!:**
+>
+>Next week I will show you guys how to create augmented reality with your personalized Blender object!
+><img width="213" alt="Screenshot 2021-11-11 at 13 43 22" src="https://user-images.githubusercontent.com/94075893/141308364-494286ce-4b61-4dfd-aa96-f78a2cee9fe0.png">
 
->Citations:
+**Citations:**
 >
 >Tutorial that helped me to learn how to add the material to the object: 
+>
 >https://www.youtube.com/watch?v=r5YNJghc81U
 
