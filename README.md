@@ -52,7 +52,7 @@
 **Next Week!:**
 >
 >Next week I will show you guys how to create augmented reality with your personalized Blender object!
-><img width="213" alt="Screenshot 2021-11-11 at 13 43 22" src="https://user-images.githubusercontent.com/94075893/141308364-494286ce-4b61-4dfd-aa96-f78a2cee9fe0.png">
+<img width="213" alt="Screenshot 2021-11-11 at 13 43 22" src="https://user-images.githubusercontent.com/94075893/141308364-494286ce-4b61-4dfd-aa96-f78a2cee9fe0.png">
 
 **Citations:**
 >
